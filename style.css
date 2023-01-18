@@ -1,0 +1,19 @@
+body{
+    background-color: burlywood;
+}
+div{
+    border-radius: 10px;
+    border: solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+p#resultado{
+    font-size: large;
+    background-color: azure;
+    color: darkblue;
+}
+h1{
+    background-color: blueviolet;
+    color: turquoise;
+}
